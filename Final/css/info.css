@@ -1,0 +1,43 @@
+body {
+		background-color: #0c121c;
+		color: #0c121c;
+		
+	} 
+	.header {
+		background:#0c121c;
+		margin: auto;
+		width: 50%;
+    	padding-top: 20px;
+    	text-align: center;
+    	}
+
+	
+	.me{
+		margin: auto;
+		width: 50%;
+    	padding-top: 20px;
+    	text-align: center;
+    	color:#ffffff;
+		
+ 	}
+
+ 	h3{
+ 		display: inline;
+ 		color:#ffffff;
+ 		text-align: center;
+ 		margin: auto;
+ 		font-family: Courier New;
+	 
+ 	}
+
+ 	p {
+ 		margin-left: auto;
+	 	font-family: Courier New;
+	 	text-align: center;
+	 	padding-left: 30%;
+	 	padding-right: 30%;
+	 	color:#ffffff;
+	 	text-align: center;
+	 }
+
+ 	
